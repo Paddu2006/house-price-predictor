@@ -32,4 +32,14 @@ Grade — the overall quality rating of the house — is the strongest predictor
 
 ## How to Run
 
-```bash
+1. Clone the repository
+   git clone https://github.com/Paddu2006/house-price-predictor.git
+
+2. Go into the folder
+   cd house-price-predictor
+
+3. Install dependencies
+   pip install pandas numpy scikit-learn matplotlib seaborn
+
+4. Run the script
+   python house_price.py
